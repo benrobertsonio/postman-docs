@@ -125,7 +125,7 @@ module.exports = {
     {
       resolve: 'gatsby-plugin-env-variables',
       options: {
-        whitelist: ['MUNCHKIN_ID'],
+        allowList: ['MUNCHKIN_ID'],
       },
     },
     {
